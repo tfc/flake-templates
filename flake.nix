@@ -13,6 +13,10 @@
           `purs-nix compile`, `purs-nix run`, etc.
           If you are going to use javascript libraries in your purescript code,
           please first initialize a package.json using `npm init` first.
+
+          Please note that due to the pre-commit module in use, you will get
+          some harmless error messages as long as you didn't initialize this
+          project as a git repository.
         '';
       };
     };
