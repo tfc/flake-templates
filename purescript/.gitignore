@@ -1,0 +1,8 @@
+.direnv/
+.pre-commit-config.yaml
+bundle.js
+dist/
+node_modules/
+output/
+result
+result-*
